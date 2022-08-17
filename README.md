@@ -1,7 +1,7 @@
 # TF2maps
 Map downloads for tf2.
 
-# Use this link "https://example.com"
+# Use this link "https://github.com/MEH4231/TF2maps/raw/main"
 
 Anybody can use this for a map download for a server.
 
