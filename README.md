@@ -1,7 +1,10 @@
 # TF2maps
 Map downloads for tf2.
 
+# Use this link ""
 
 Anybody can use this for a map download for a server.
 
-for a map suggestion dm MEH !#0931 on discord.
+If a new map is added you will need to copy the link again.
+
+For a map suggestion dm MEH !#0931 on discord.
