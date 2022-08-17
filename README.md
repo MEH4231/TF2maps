@@ -5,6 +5,6 @@ Map downloads for tf2.
 
 Anybody can use this for a map download for a server.
 
-If a new map is added you will need to copy the link again to get it.
+If a new map is added there is no need to redo the link.
 
 For a map suggestion dm MEH !#0931 on discord.
