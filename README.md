@@ -1,5 +1,5 @@
 # TF2maps
-FTP Map downloads for tf2.
+FTP FastDL Map downloads for tf2.
 
 # Use this link "https://github.com/MEH4231/TF2maps/raw/main"
 
