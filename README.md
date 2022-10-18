@@ -27,4 +27,6 @@ sv_allowupload 1
 
 In the config.
 
+Download any of the maps that you want to use.
+
 ### Ready to go!!!!
