@@ -7,7 +7,7 @@ Anybody can use this for a map download for a server.
 
 If a new map is added there is no need to redo the link.
 
-For a map suggestion dm MEH !#0931 on discord.
+For a map suggestion or help dm MEH !#0931 on discord.
 
 
 # Instructions
@@ -27,6 +27,6 @@ sv_allowupload 1
 
 In the config.
 
-Download any of the maps that you want to use.
+Download any of the maps that you want to use and put them in your maps directory.
 
 ### Ready to go!!!!
