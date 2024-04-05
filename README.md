@@ -7,7 +7,7 @@ Anybody can use this for a map download for a server.
 
 If a new map is added there is no need to redo the link.
 
-For a map suggestion or help dm "godotengine on discord.
+For a map suggestion or help dm "godotengine" on discord.
 
 
 # Instructions
